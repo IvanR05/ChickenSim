@@ -7,6 +7,8 @@
 
 *A genetic simulation where chickens breed until they reach your desired population*
 
+*A learning project from back in the day when I was exploring C# and object-oriented programming (2022)*
+
 **[Read in English](#english)** • **[Leer en Español](#español)**
 
 </div>
@@ -23,7 +25,7 @@
 
 ## 🎯 Overview
 
-**Gallinas** is a genetic breeding simulator inspired by Greek mythology. Dionisus and Epistomisya, the primordial chicken parents, spawn generations of offspring until the desired population is reached.
+**ChickenSim** is a genetic breeding simulator. Dionisus and Epistomisya, the primordial chicken parents, spawn generations of offspring until the desired population is reached.
 
 The simulation features:
 - 🎲 **Random gender assignment** for each offspring
@@ -194,7 +196,7 @@ public enum Genero
 
 ## 🎯 Descripción General
 
-**Gallinas** es un simulador de cría genética inspirado en la mitología griega. Dionisus y Epistomisya, los padres primordiales de las gallinas, generan descendencia hasta alcanzar la población deseada.
+**ChickenSim** es un simulador de cría genética. Dionisus y Epistomisya, los padres primordiales de las gallinas, generan descendencia hasta alcanzar la población deseada.
 
 La simulación incluye:
 - 🎲 **Asignación aleatoria de género** para cada descendiente
@@ -356,13 +358,3 @@ public enum Genero
 - **Framework**: .NET 9.0
 - **Arquitectura**: Aplicación de Consola
 - **Aleatorización**: `System.Random` para selección de género y nombre
-
----
-
-<div align="center">
-
-*A learning project from back in the day when I was exploring C# and object-oriented programming (2022)*
-
-*Un proyecto de aprendizaje de cuando estaba explorando C# y programación orientada a objetos (2022)*
-
-</div>
