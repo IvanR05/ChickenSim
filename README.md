@@ -9,6 +9,14 @@
 
 *A learning project from back in the day when I was exploring C# and object-oriented programming (2022)*
 
+
+<div align="center">
+  <img src="shots/shot1.png" alt="Screenshot 1" width="500"/>
+  <img src="shots/shot2.png" alt="Screenshot 2" width="500"/>
+</div>
+
+<br/>
+
 **[Read in English](#english)** • **[Leer en Español](#español)**
 
 </div>
