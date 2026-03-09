@@ -94,7 +94,7 @@ Input: "8f"
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gallinas.git
+git clone https://github.com/IvanR05/ChickenSim.git gallinas
 cd gallinas
 
 # Build the project
